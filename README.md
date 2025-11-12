@@ -116,7 +116,7 @@
     // Nome correto
     const expectedName = "Maria Eduarda Savioti";
     // Senha correta
-    const correctPassword = "QUER NAMORAR COMIGO";
+    const correctPassword = "QUER NAMORAR COMIGO??";
 
     const normalize = s => s.trim().replace(/\s+/g,' ').toLowerCase();
 
